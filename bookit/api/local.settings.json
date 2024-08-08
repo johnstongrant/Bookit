@@ -1,7 +1,0 @@
-{
-    "Values": {
-        "AZURE_MONGO_DB":"",
-        "FUNCTIONS_WORKER_RUNTIME": "node"
-    },
-    "IsEncrypted": false
-}
